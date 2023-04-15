@@ -38,7 +38,7 @@ public class ChatServer {
             roomHistoryList.put(roomID, roomID + " room Created."); //initiating the room history
         }
 
-        session.getBasicRemote().sendText("{\"type\": \"chat\", \"message\":\"(Server ): Welcome to "+ roomID + ". Please state your username to begin.\"}");
+        session.getBasicRemote().sendText("{\"type\": \"chat\", \"message\":\"(Server): Welcome to "+ roomID + ". Please state your username to begin.\"}");
     }
 
     @OnClose
@@ -96,7 +96,7 @@ public class ChatServer {
             }
         }else{ //first message is their username
             usernames.put(userID, message);
-            session.getBasicRemote().sendText("{\"type\": \"chat\", \"message\":\"(Server ): Welcome, " + message + "!\"}");
+            session.getBasicRemote().sendText("{\"type\": \"chat\", \"message\":\"(Server): Welcome, " + message + "!\"}");
 
             // adding event to the history of the room
             String logHistory = roomHistoryList.get(roomID);

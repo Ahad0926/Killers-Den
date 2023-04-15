@@ -10,7 +10,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99cf3152-504d-4f52-bb1f-acf3d79ba29d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__jakarta_el_jakarta_el_api_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__jakarta_enterprise_jakarta_enterprise_cdi_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__jakarta_interceptor_jakarta_interceptor_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_3_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__org_json_json_20220924.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatResourceAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/webchatserver/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/webchatserver/ChatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/CreateGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/CreateGame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/JoinGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/JoinGame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/CreateGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/CreateGame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/JoinGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/JoinGame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +50,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,30 +75,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ahada/OneDrive/Documents/0_Stuff/University/Year_3/Semester2/SysDev/w23-csci2020u-project-team31/ChatServer/src/main/webapp/dist/css",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ahada/OneDrive/Documents/0_Stuff/University/Year_3/Semester2/SysDev/w23-csci2020u-project-team31/ChatServer/src/main/webapp&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ahada\OneDrive\Documents\0_Stuff\University\Year_3\Semester2\SysDev\w23-csci2020u-project-team31\ChatServer\src\main\webapp" />
+      <recent name="C:\Users\ahada\OneDrive\Documents\0_Stuff\University\Year_3\Semester2\SysDev\w23-csci2020u-project-team31\ChatServer\src\main\webapp\js" />
       <recent name="C:\Users\ahada\OneDrive\Documents\0_Stuff\University\Year_3\Semester2\SysDev\w23-csci2020u-project-team31\ChatServer\src\main\webapp\dist\css" />
       <recent name="C:\Users\ahada\OneDrive\Documents\0_Stuff\University\Year_3\Semester2\SysDev\Assignments\chatserver-assignment02\ChatServer" />
     </key>
@@ -135,6 +167,9 @@
       <workItem from="1681448694346" duration="7000" />
       <workItem from="1681455992369" duration="614000" />
       <workItem from="1681456675322" duration="2849000" />
+      <workItem from="1681500600241" duration="3805000" />
+      <workItem from="1681521065508" duration="9235000" />
+      <workItem from="1681583793927" duration="5333000" />
     </task>
     <servers />
   </component>
