@@ -2,7 +2,9 @@ package com.example.webchatserver;
 
 import java.io.IOException;
 import java.security.SecureRandom;
+import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 import java.util.Set;
 
 import com.google.gson.Gson;
@@ -18,6 +20,8 @@ import jakarta.servlet.annotation.WebServlet;
  */
 @WebServlet(name = "chat-servlet", value = "/chat-servlet/*")
 public class ChatServlet extends HttpServlet {
+
+    public static Map<String, ChatRoom> activeRooms = new HashMap<String, ChatRoom>();
     private static final long serialVersionUID = 1L;
     private static final Set<String> rooms = new HashSet<>();
     private static final SecureRandom random = new SecureRandom();

@@ -10,36 +10,137 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="815029b6-83f5-429d-afb5-6dbb053604cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_el_jakarta_el_api_4_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_enterprise_jakarta_enterprise_cdi_api_3_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_interceptor_jakarta_interceptor_api_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_3_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20220924.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/0EYER.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/0ICPN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/19KVP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/2020.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/2OCUL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/2Q7ZZ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/2UYXE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/31OPW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/3B6RW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/5BQWM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/5V57Q.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/6JUWE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/720UU.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/7L2U7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/8KJN1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/8VVKM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/8Z8VP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/921PJ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/ABDAI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/AK712.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/ALLUT.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/AUBZ6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/BAWWP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/BBVXO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/BLBAB.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/BZKVX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/CADPQ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/CCL6J.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/CEFKD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/CGQXK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/CRRXK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/CYVNI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/D9FLG.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/DTC79.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/EDEIB.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/EWPKM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/EYJMN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/FAS83.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/FEGCK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/FJ17R.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/FR94B.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/G5L39.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/GM2XF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/GNFQZ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/HFXPD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/IHOYL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/IHUX5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/IMMTI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/J2HDN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/JH4OW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/JP9TX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/JPC4S.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/K9HIL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/KAGJC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/KCBRH.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/KZ4N1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/LP8UX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/LQPXN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/LUD8G.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/LVAW7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/M67BH.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/MD9I9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/MNPB3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/NB687.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/NPB73.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/NWACK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/OEOK1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/OG6HA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/ONJYX.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/OVCUP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/PQPXB.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/PWQSE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/PY39J.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/QAVXQ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/QMZNS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/QUFGQ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/R4XHT.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/RCPAN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/ROOMCODE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/SFKMD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/SHVRO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/SRMQ3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/TTHGV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/TVL4G.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/TXXGQ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/U1NMW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/UI9XC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/UOYYB.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/VF6O0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/VFWN3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/VGWDF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/VL3F7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/W3KP7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/WN8RF.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/XENYL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/XX8E8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/YB3QG.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/YDIB0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/YV5FH.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/YVEPG.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/YWFNV.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/ZAG5X.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/ZW1SN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ChatResourceAPI-1.0-SNAPSHOT/WEB-INF/classes/chatHistory/undefined.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatServer/src/main/java/com/example/webchatserver/ChatRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/src/main/java/com/example/webchatserver/ChatRoom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/src/main/java/com/example/webchatserver/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/src/main/java/com/example/webchatserver/ChatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatServer/src/main/java/com/example/webchatserver/ChatServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/src/main/java/com/example/webchatserver/ChatServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/src/main/webapp/CreateGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/src/main/webapp/CreateGame.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/src/main/webapp/JoinGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/src/main/webapp/JoinGame.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/src/main/webapp/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/src/main/webapp/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/src/main/webapp/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/src/main/webapp/homepage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChatServer/src/main/webapp/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/src/main/webapp/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatServer/src/main/webapp/joinedIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/src/main/webapp/joinedIndex.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/CreateGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/CreateGame.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/JoinGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/JoinGame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/WEB-INF/classes/com/example/webchatserver/ChatRoom.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/WEB-INF/classes/com/example/webchatserver/ChatRoom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/WEB-INF/classes/com/example/webchatserver/ChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/WEB-INF/classes/com/example/webchatserver/ChatServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/WEB-INF/classes/com/example/webchatserver/ChatServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/WEB-INF/classes/com/example/webchatserver/ChatServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/homepage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/joinedIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/ChatServer-1.0-SNAPSHOT/joinedIndex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatServer/target/classes/com/example/webchatserver/ChatRoom.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/classes/com/example/webchatserver/ChatRoom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatServer/target/classes/com/example/webchatserver/ChatServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/classes/com/example/webchatserver/ChatServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatServer/target/classes/com/example/webchatserver/ChatServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatServer/target/classes/com/example/webchatserver/ChatServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +178,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ahada/OneDrive/Documents/0_Stuff/University/Year_3/Semester2/SysDev/w23-csci2020u-project-team31/ChatServer",
+    "last_opened_file_path": "C:/Users/filip/csci2020u/SysDevFinal3/w23-csci2020u-project-team31/ChatResourceAPI",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,7 +187,7 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="New GlassFish 7.0.2" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="New GlassFish 7.0.2" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+    <configuration name="GlassFish 7.0.0" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 7.0.0" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ChatResourceAPI-1.0-SNAPSHOT/api/history" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -176,6 +277,7 @@
       <workItem from="1681500597497" duration="1239000" />
       <workItem from="1681521065960" duration="751000" />
       <workItem from="1681583778113" duration="1238000" />
+      <workItem from="1681615052650" duration="1045000" />
     </task>
     <servers />
   </component>
