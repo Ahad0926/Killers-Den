@@ -24,3 +24,35 @@ Before running this application, you will need to have the following installed:
 ## Deployment
 
 To deploy this project one must simply deploy the local Glassfish server (ChatResourceAPI) then the remote Glassfish Server (ChatServer)
+
+## Usage
+
+Click Create Game to create a new room. Send the code at the top of the screen to share with friends.
+Next, type in your name once you enter the chatroom.
+
+For Friends, they should click join game, and then input the code you've given them.
+Note: rooms maintain history.
+Once enough people enter a lobby, the first person in the lobby, the host, types in '!start game' or '!game start'.
+You are then assigned a unique number, and a role. this number determines how you use commands on other people, including yourself.
+'!status 3' is used to check if the player assigned 3 is alive, for example.
+
+Your role can either be innocent, or killer. the innocents must vote out the killer, while the killer gets to pick them off one by one every night phase.
+
+## Screenshots
+
+![Screenshot of a game running](Capture1.png)
+
+![Screenshot of a game running](Capture2.png)
+
+![Screenshot of a game running](Capture3.png)
+
+## Collaborators:
+
+Ahad Abdul: 100787992
+Filip Takov: 100828604
+Mukku Chemjong 100828440
+
+## References:
+the following was used to set up the timer for the phases.
+
+https://www.tutorialspoint.com/how-to-schedule-tasks-in-java-to-run-for-repeated-fixed-rate-execution-beginning-after-the-specified-delay

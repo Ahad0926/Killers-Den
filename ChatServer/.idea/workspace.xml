@@ -11,25 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="99cf3152-504d-4f52-bb1f-acf3d79ba29d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatResourceAPI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChatResourceAPI/target/ChatResourceAPI-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../ChatResourceAPI/target/ChatResourceAPI-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/webchatserver/ChatRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/webchatserver/ChatRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/webchatserver/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/webchatserver/ChatServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/webchatserver/ChatServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/webchatserver/ChatServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/CreateGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/CreateGame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/JoinGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/JoinGame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/joinedIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/joinedIndex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/CreateGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/CreateGame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/JoinGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/JoinGame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/joinedIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/ChatServer-1.0-SNAPSHOT/joinedIndex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +144,7 @@
       <workItem from="1681500600241" duration="3805000" />
       <workItem from="1681521065508" duration="9235000" />
       <workItem from="1681583793927" duration="5333000" />
-      <workItem from="1681615037820" duration="1064000" />
+      <workItem from="1681615037820" duration="2406000" />
     </task>
     <servers />
   </component>
